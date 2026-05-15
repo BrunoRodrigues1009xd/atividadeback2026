@@ -1,0 +1,15 @@
+.bruno {
+    color: #1b3197;
+    font-size: 100px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.fundo {
+    background-color: rgb(156, 255, 255);
+    margin: 0;
+}
+
+.trnome {
+    color: blue;
+}
